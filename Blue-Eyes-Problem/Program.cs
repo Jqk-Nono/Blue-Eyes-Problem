@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace BlueEyesProblem
+namespace BlueSEyesProblem
 {
     public enum EyeColorEnum { Blue, Brown, Undefined }
 
