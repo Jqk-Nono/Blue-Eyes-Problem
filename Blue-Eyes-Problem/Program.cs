@@ -63,7 +63,7 @@ namespace BlueSEyesProblem
                 _knowSelfEyeColor = value;
                 if (_knowSelfEyeColor)
                 {
-                    Console.WriteLine($"NO. {Index} realize its eye color...");
+                    Console.WriteLine($"NO. {Index} realizes its eye color...");
                     GoDie();
                 }
             }
