@@ -1,8 +1,8 @@
 # Blue-Eyes-Problem
 
-https://blog.jntalent.com/蓝眼人问题/
-有感于袁岚峰的介绍, https://zhuanlan.zhihu.com/p/44581956
-It's not a trick, but a interesting problem.
+https://blog.jntalent.com/蓝眼人问题/  
+有感于袁岚峰的介绍, https://zhuanlan.zhihu.com/p/44581956  
+It's not a trick, but a interesting problem.  
 
 题目设定是这样的，一个岛上有100个人，其中有5个棕眼睛，95个蓝眼睛。这个岛有三个奇怪的宗教规则。
 
