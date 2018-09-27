@@ -273,6 +273,8 @@ namespace BlueSEyesProblem
             if (!TotalPeoples.Any(x => x.Dead))
             {
                 commonKnowledge.BlueEyeNum++;
+                
+                // New common knowledge generated
                 InputCommonKnowledge(commonKnowledge);
             }
         }
